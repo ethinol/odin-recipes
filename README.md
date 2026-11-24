@@ -1,0 +1,1 @@
+The current project is a bare bones recipe website including links to several web pages describing different recipies.
